@@ -41,8 +41,8 @@ body {
   top: 70%;
   left: 50%;
   transform: translate(-50%, 0);
-  width: 15vw;
-  height: 10vh;
+  width: 290px;
+  height: 100px;
   z-index: 99;
 }
 
